@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAGWeb", "RAGWeb.csproj", "{59BB5713-FCFF-1405-CBDF-154F8738B396}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59BB5713-FCFF-1405-CBDF-154F8738B396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BB5713-FCFF-1405-CBDF-154F8738B396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BB5713-FCFF-1405-CBDF-154F8738B396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59BB5713-FCFF-1405-CBDF-154F8738B396}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D45F3EB6-A183-4C52-B2B7-504AD2054720}
+	EndGlobalSection
+EndGlobal
